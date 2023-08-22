@@ -1,0 +1,3 @@
+[[tool.pylama.linter.pylint]]
+ignore = "C0200"
+ignore-patterns = ".*__init__.py"
